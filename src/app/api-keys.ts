@@ -1,10 +1,10 @@
 export const masterFirebaseConfig = {
-  apiKey: "AIzaSyBLOb_1br1DYH2mRugVAe3OXz48cyvJJ2M",
-  authDomain: "startpup-9068d.firebaseapp.com",
-  databaseURL: "https://startpup-9068d.firebaseio.com",
-  projectId: "startpup-9068d",
-  storageBucket: "startpup-9068d.appspot.com",
-  messagingSenderId: "807530857690"
+  apiKey: "AIzaSyAx6C4KtV_A_nso586AJMGRgBSmk6SiY3I",
+  authDomain: "startpup-flattened.firebaseapp.com",
+  databaseURL: "https://startpup-flattened.firebaseio.com",
+  projectId: "startpup-flattened",
+  storageBucket: "startpup-flattened.appspot.com",
+  messagingSenderId: "984665278650"
 };
 
 export const masterLinkedinConfig = {
